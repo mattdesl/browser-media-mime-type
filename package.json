@@ -1,0 +1,44 @@
+{
+  "name": "browser-media-mime-type",
+  "version": "1.0.0",
+  "description": "mime type lookup for browser video and audio",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^4.2.2"
+  },
+  "scripts": {
+    "test": "node test.js | faucet"
+  },
+  "keywords": [
+    "mime",
+    "type",
+    "audio",
+    "video",
+    "element",
+    "lookup",
+    "types",
+    "mimetype",
+    "mpg",
+    "mpeg",
+    "mp4",
+    "mp3",
+    "wav",
+    "mkv"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/browser-media-mime-type.git"
+  },
+  "homepage": "https://github.com/mattdesl/browser-media-mime-type",
+  "bugs": {
+    "url": "https://github.com/mattdesl/browser-media-mime-type/issues"
+  }
+}
