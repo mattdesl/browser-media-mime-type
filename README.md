@@ -31,7 +31,7 @@ mime('mp3')
 
 Takes the case-insensitive `extension` string, with or without a leading dot, and returns a mime type that might be applicable for that extension.
 
-#### `require('browser-media-mime-type/mime-types.josn')`
+#### `require('browser-media-mime-type/mime-types.json')`
 
 You can require the JSON for the raw mime types hash.
 
