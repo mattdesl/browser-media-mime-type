@@ -14,7 +14,7 @@ Sourced from:
 ## Example
 
 ```js
-var mime = require('brwoser-media-mime-type')
+var mime = require('browser-media-mime-type')
 
 mime('.mp4')
 //=> 'video/mp4'
